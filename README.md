@@ -22,17 +22,17 @@ addBackToTop({
 })
 </script>
 ```
-For alternative installation see [INSTALL](https://github.com/Rianvy/vanilla-back-to-top-custom/INSTALL.md)
+For alternative installation see [INSTALL](https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/INSTALL.md)
 
-See [EXAMPLES](https://github.com/Rianvy/vanilla-back-to-top-custom/EXAMPLES.md)
+See [EXAMPLES](https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/EXAMPLES.md)
 
-For all options see [OPTIONS](https://github.com/Rianvy/vanilla-back-to-top-custom/OPTIONS.md)
+For all options see [OPTIONS](https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/OPTIONS.md)
 
 ## Documentation
 [Original Documentation](https://github.com/vfeskov/vanilla-back-to-top)
 
 ## License
 
-MIT, see [LICENSE](https://github.com/Rianvy/vanilla-back-to-top-custom/LICENSE)
+MIT, see [LICENSE](https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/LICENSE)
 
 Default icon from [Material Design Icons](https://material.io/icons/#ic_keyboard_arrow_up) under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), which only restricts re-selling the icon

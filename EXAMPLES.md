@@ -1,6 +1,6 @@
 # Examples
 
-<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/examples/images/default.png" width="66"/> (default)<br/>
+<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/examples/images/default.png" width="66"/> (default)<br/>
 ```html
 <script>addBackToTop()</script>
 ```
@@ -9,7 +9,7 @@
 ----------
 
 
-<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/examples/images/coral.png" width="66" /><br/>
+<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/examples/images/coral.png" width="66" /><br/>
 ```html
 <script>addBackToTop({
   diameter: 56,
@@ -22,7 +22,7 @@
 ----------
 
 
-<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/examples/images/smaller.png" width="57" /><br/>
+<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/examples/images/smaller.png" width="57" /><br/>
 ```html
 <script>addBackToTop({
   diameter: 40,
@@ -35,7 +35,7 @@
 ----------
 
 
-<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/examples/images/rectangle.png" width="121" /><br/>
+<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/examples/images/rectangle.png" width="121" /><br/>
 ```html
 <script>addBackToTop({
   backgroundColor: '#fff',
@@ -60,7 +60,7 @@
 ----------
 
 
-<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/examples/images/different-arrow.png" width="72" /><br/>
+<img src="https://github.com/Rianvy/vanilla-back-to-top-custom/blob/main/examples/images/different-arrow.png" width="72" /><br/>
 ```html
 <script>addBackToTop({
   backgroundColor: '#ffda0c',
