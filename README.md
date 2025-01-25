@@ -12,7 +12,7 @@ Fork of [vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) wi
 
 Add this to `<body>` of your HTML:
 ```javascript
-<script src="https://unpkg.com/vanilla-back-to-top-custom@7.2.2/dist/vanilla-back-to-top.min.js"></script>
+<script src="https://unpkg.com/vanilla-back-to-top-custom@7.2.3/dist/vanilla-back-to-top.min.js"></script>
 <script>
 addBackToTop({
   diameter: 56,
